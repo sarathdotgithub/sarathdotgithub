@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center"><a href="https://github.com/sarathdotgithub/profile/edit/main/README.md"><img width="75%"  src="https://github.com/sarathdotgithub/about-me/blob/1f508b7aea9ba1fbe621411eae701c01c53ce435/DATA%20SCIENCE%20MODEL.jpg" /></a></p>
+<p align="center">
+  <a href="https://github.com/sarathdotgithub">
+    <img width="25%" src="https://github.com/sarathdotgithub/about-me/blob/9e5f05b0cc314bb7b5b5138eea5daedf2f101a5f/sarath.jpg" alt="Your Banner">
+  </a>
+</p>
 
-<!--
-**sarathdotgithub/sarathdotgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi there 👋, I'm SARATH</h3>
+<p align="center">A passionate DATA SCIENTIST | Exploring DATA, VISUALIZATION TOOLS | Connecting with the world through code.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarathrajj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ 
+  </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me:
+
+- 🔭 I’m currently working on Large language models.
+- 🌱 I’m currently learning Machine learning.
+- - 💬 Ask me about python.
+- 📫 How to reach me: sarathrajjawahar@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: working on controllables.
+
+---
+
+### 🛠️ Technologies & Skills:
+
+**Languages:python,sql**
