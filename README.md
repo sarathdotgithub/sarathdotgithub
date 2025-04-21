@@ -31,3 +31,7 @@
 ### 🛠️ Technologies & Skills:
 
 **Languages:python,sql**
+
+**Skills:Windows,Macos,powershell,cloud deployment models,generative ai,3d modelling**
+
+
