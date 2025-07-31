@@ -13,14 +13,17 @@
  
   </a>
   </p>
+  
+ 
 
 ---
 
 ### 🚀 About Me:
 
+
 - 🔭 I’m currently working on Large language models.
-- 🌱 I’m currently learning Machine learning.
-- - 💬 Ask me about python.
+- 💬 Ask me about python.
+- 📖 Visit my [certifications](https://github.com/sarathdotgithub/certifications)
 - 📫 How to reach me: sarathrajjawahar@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: working on controllables.
